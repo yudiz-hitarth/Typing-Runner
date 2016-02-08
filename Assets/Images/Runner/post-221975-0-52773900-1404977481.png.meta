@@ -1,0 +1,103 @@
+fileFormatVersion: 2
+guid: fd841f27bef400342bfb30eee9212d34
+timeCreated: 1454583902
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: post-221975-0-52773900-1404977481_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: post-221975-0-52773900-1404977481_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 18
+        width: 374
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 176, y: -111.5}
+        - {x: 187, y: -83.5}
+        - {x: 187, y: -55.5}
+        - {x: 179, y: -21.5}
+        - {x: 150, y: 18.5}
+        - {x: 108, y: 48.5}
+        - {x: 83, y: 47.5}
+        - {x: 82, y: 93.5}
+        - {x: 66, y: 134.5}
+        - {x: 43, y: 153.5}
+        - {x: 21, y: 153.5}
+        - {x: 0, y: 147.5}
+        - {x: -22, y: 127.5}
+        - {x: -50, y: 84.5}
+        - {x: -54, y: 63.5}
+        - {x: -87, y: 57.5}
+        - {x: -109, y: 23.5}
+        - {x: -115, y: 1.5}
+        - {x: -110, y: -14.5}
+        - {x: -156, y: -34.5}
+        - {x: -184, y: -64.5}
+        - {x: -187, y: -81.5}
+        - {x: -187, y: -107.5}
+        - {x: -186, y: -120.5}
+        - {x: -162, y: -150.5}
+        - {x: -146, y: -153.5}
+        - {x: 102, y: -153.5}
+        - {x: 135, y: -146.5}
+        - {x: 171, y: -115.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
